@@ -10,5 +10,5 @@ unsolved (if they are incomplete after three days).
 
 | Language     | 2021 | Total |
 |--------------|------|-------|
-| Python       | 9    | 9     |
-| Total        | 9    | 9     |
+| Python       | 10   | 10    |
+| Total        | 10   | 10    |
