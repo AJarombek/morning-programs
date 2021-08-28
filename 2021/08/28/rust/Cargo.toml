@@ -1,0 +1,11 @@
+# Cargo dependency management for the Rust application.
+# Author: Andrew Jarombek
+# Date: 8/28/2021
+
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["Andrew Jarombek <andrew@jarombek.com>"]
+edition = "2018"
+
+[dependencies]
