@@ -8,12 +8,12 @@ unsolved (if they are incomplete after three days).
 
 ### Program Completion Count
 
-| Language     | 2021   | Total  |
-|--------------|--------|--------|
-| Python       | 59     | 59     |
-| Java         | 31     | 31     |
-| C            | 5      | 5      |
-| Rust         | 2      | 2      |
-| JavaScript   | 1      | 1      |
-| C++          | 1      | 1      |
-| **Total**    | **99** | **99** |
+| Language     | 2021    | Total   |
+|--------------|---------|---------|
+| Python       | 60      | 60      |
+| Java         | 32      | 32      |
+| C            | 5       | 5       |
+| Rust         | 2       | 2       |
+| JavaScript   | 2       | 2       |
+| C++          | 1       | 1       |
+| **Total**    | **102** | **102** |
