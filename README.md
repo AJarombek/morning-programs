@@ -10,11 +10,11 @@ unsolved (if they are incomplete after three days).
 
 | Language     | 2021    | Total   |
 |--------------|---------|---------|
-| Python       | 111     | 111     |
-| Java         | 88      | 88      |
+| Python       | 112     | 112     |
+| Java         | 89      | 89      |
 | C++          | 10      | 10      |
 | C            | 7       | 7       |
 | JavaScript   | 7       | 7       |
 | Rust         | 5       | 5       |
 | Go           | 2       | 2       |
-| **Total**    | **228** | **228** |
+| **Total**    | **230** | **230** |
