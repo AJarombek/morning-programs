@@ -14,9 +14,9 @@ unsolved (if they are incomplete after three days).
 | Java         | 148     | 8       | 156     |
 | JavaScript   | 47      | 7       | 54      |
 | C++          | 11      | 0       | 11      |
+| SQL          | 0       | 10      | 10      |
 | C            | 9       | 0       | 9       |
 | Rust         | 6       | 0       | 6       |
-| SQL          | 0       | 4       | 4       |
 | Go           | 3       | 0       | 3       |
 | TypeScript   | 0       | 1       | 1       |
-| **Total**    | **394** | **29**  | **423** |
+| **Total**    | **394** | **35**  | **429** |
