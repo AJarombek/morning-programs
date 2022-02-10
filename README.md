@@ -14,11 +14,11 @@ unsolved (if they are incomplete after three days).
 | Java         | 148     | 12      | 160     |
 | JavaScript   | 47      | 7       | 54      |
 | C            | 9       | 16      | 25      |
+| Rust         | 6       | 10      | 16      |
 | C++          | 11      | 4       | 15      |
-| Rust         | 6       | 9       | 15      |
 | SQL          | 0       | 10      | 10      |
 | Swift        | 0       | 8       | 8       |
-| Go           | 3       | 3       | 6       |
+| Go           | 3       | 4       | 7       |
 | Bash         | 0       | 2       | 2       |
 | TypeScript   | 0       | 1       | 1       |
-| **Total**    | **394** | **97**  | **491** |
+| **Total**    | **394** | **99**  | **493** |
