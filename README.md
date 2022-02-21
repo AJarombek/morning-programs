@@ -19,6 +19,6 @@ unsolved (if they are incomplete after three days).
 | SQL          | 0       | 10      | 10      |
 | Swift        | 0       | 10      | 10      |
 | Go           | 3       | 4       | 7       |
-| TypeScript   | 0       | 3       | 3       |
+| TypeScript   | 0       | 5       | 5       |
 | Bash         | 0       | 2       | 2       |
-| **Total**    | **394** | **122** | **516** |
+| **Total**    | **394** | **124** | **518** |
