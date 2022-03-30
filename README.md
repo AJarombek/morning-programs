@@ -12,8 +12,8 @@ unsolved (if they are incomplete after three days).
 |--------------|---------|---------|---------|
 | Python       | 176     | 35      | 211     |
 | Java         | 148     | 12      | 160     |
+| TypeScript   | 0       | 57      | 57      |
 | JavaScript   | 47      | 7       | 54      |
-| TypeScript   | 0       | 55      | 55      |
 | C            | 9       | 32      | 41      |
 | C++          | 11      | 13      | 24      |
 | Swift        | 0       | 23      | 23      |
@@ -21,4 +21,4 @@ unsolved (if they are incomplete after three days).
 | SQL          | 0       | 10      | 10      |
 | Go           | 3       | 5       | 8       |
 | Bash         | 0       | 2       | 2       |
-| **Total**    | **394** | **205** | **599** |
+| **Total**    | **394** | **207** | **601** |
