@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Wilton Wright Invitational",
+    "date": "4/9/2022",
+    "location": "New Haven, CT",
+    "type": "Outdoor Track",
+    "distance": "5000m",
+    "goal": "15:45"
+  },
+  {
+    "name": "NYRR RBC Race For Kids",
+    "date": "4/24/2022",
+    "location": "New York, NY",
+    "type": "Road",
+    "distance": "4 Mile",
+    "goal": "20:55"
+  },
+  {
+    "name": "TCNJ Lions Invitational",
+    "date": "4/30/2022",
+    "location": "Ewing, NJ",
+    "type": "Outdoor Track",
+    "distance": "5000m",
+    "goal": "15:40"
+  },
+  {
+    "name": "St. John's Tom Farrell Invitational",
+    "date": "5/7/2022",
+    "location": "New York, NY",
+    "type": "Outdoor Track",
+    "distance": "3000m",
+    "goal": "9:00"
+  },
+  {
+    "name": "Swarthmore Last Chance Invitational",
+    "date": "5/16/2022",
+    "location": "Swarthmore, PA",
+    "type": "Outdoor Track",
+    "distance": "5000m",
+    "goal": "15:35"
+  },
+  {
+    "name": "NYRR Brooklyn Half Marathon",
+    "date": "5/21/2022",
+    "location": "New York, NY",
+    "type": "Road",
+    "distance": "Half Marathon",
+    "goal": "1:14:30"
+  },
+  {
+    "name": "NYRR Queens 10K",
+    "date": "6/18/2022",
+    "location": "New York, NY",
+    "type": "Road",
+    "distance": "10K",
+    "goal": "33:30"
+  },
+  {
+    "name": "GSTC Club Track Championships",
+    "date": "6/24/2022",
+    "location": "Edison, NJ",
+    "type": "Outdoor Track",
+    "distance": "800m",
+    "goal": "fun"
+  }
+]
