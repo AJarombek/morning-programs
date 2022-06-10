@@ -15,10 +15,10 @@ unsolved (if they are incomplete after three days).
 | TypeScript   | 0       | 151     | 151     |
 | JavaScript   | 47      | 8       | 55      |
 | C            | 9       | 36      | 45      |
-| C++          | 11      | 20      | 31      |
+| C++          | 11      | 21      | 32      |
 | Swift        | 0       | 25      | 25      |
-| Go           | 3       | 19      | 22      |
+| Go           | 3       | 20      | 23      |
 | Rust         | 6       | 11      | 17      |
 | SQL          | 0       | 10      | 10      |
 | Bash         | 0       | 2       | 2       |
-| **Total**    | **394** | **347** | **741** |
+| **Total**    | **394** | **349** | **743** |
