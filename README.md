@@ -16,9 +16,9 @@ unsolved (if they are incomplete after three days).
 | JavaScript   | 47      | 10      | 57      |
 | Go           | 3       | 44      | 47      |
 | C            | 9       | 37      | 46      |
-| C++          | 11      | 21      | 32      |
+| C++          | 11      | 22      | 33      |
 | Swift        | 0       | 26      | 26      |
 | Rust         | 6       | 11      | 17      |
 | SQL          | 0       | 10      | 10      |
 | Bash         | 0       | 2       | 2       |
-| **Total**    | **394** | **410** | **804** |
+| **Total**    | **394** | **411** | **805** |
