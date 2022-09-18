@@ -50,5 +50,10 @@ object Basics {
       println(s"My name is $name.")
 
     printName("Andy Jarombek")
+
+    // I really don't know anything about you anymore.  That fact makes me very
+    // sad, but I also know it wouldn't be that way if you didn't make it so.
+    // I hope you made this choice because you are happier without me and not
+    // because of something else that has gone wrong.
   }
 }
