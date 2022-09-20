@@ -1,5 +1,7 @@
 # morning-programs
 
+![Maintained Label](https://img.shields.io/badge/Maintained-Partially-yellow?style=for-the-badge)
+
 ### Overview
 
 Programming equivalent to reading the newspaper or completing a sudoku puzzle in the morning.  The plan is to spend 20 
@@ -20,6 +22,6 @@ unsolved (if they are incomplete after three days).
 | Swift        | 0       | 29      | 29      |
 | Rust         | 6       | 11      | 17      |
 | SQL          | 0       | 10      | 10      |
+| Scala        | 0       | 3       | 3       |
 | Bash         | 0       | 2       | 2       |
-| Scala        | 0       | 2       | 2       |
-| **Total**    | **394** | **519** | **913** |
+| **Total**    | **394** | **520** | **914** |
