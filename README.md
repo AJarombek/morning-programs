@@ -22,6 +22,6 @@ unsolved (if they are incomplete after three days).
 | Swift        | 0       | 29      | 29      |
 | Rust         | 6       | 11      | 17      |
 | SQL          | 0       | 10      | 10      |
-| Scala        | 0       | 4       | 4       |
+| Scala        | 0       | 5       | 5       |
 | Bash         | 0       | 2       | 2       |
-| **Total**    | **394** | **521** | **915** |
+| **Total**    | **394** | **522** | **916** |
