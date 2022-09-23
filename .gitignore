@@ -3,3 +3,6 @@
 **/rust/target
 **/java/out
 **/scala/out
+**/scala/.bsp/
+**/scala/project/
+**/scala/target/
