@@ -10,7 +10,7 @@ import org.scalatest.funsuite._
  * @author Andrew Jarombek
  */
 
-class Day9Spec extends AnyFunSuite {
+class Day10Spec extends AnyFunSuite {
   test("title is day 10") {
     assert(Day10.title == "day 10")
   }

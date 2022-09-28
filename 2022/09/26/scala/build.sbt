@@ -5,6 +5,9 @@
 ThisBuild / scalaVersion := "2.13.8"
 ThisBuild / organization := "example"
 
+// Scala Linting configuration
+wartremoverErrors ++= Warts.unsafe
+
 lazy val day10 = (project in file("."))
   .settings(
     name := "Day10",
