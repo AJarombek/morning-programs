@@ -1,0 +1,10 @@
+{
+   "atl": {
+      "name": "Hartsfield-Jackson Atlanta International Airport",
+      "symbol": "ATL"
+   },
+   "jfk": {
+      "name": "John F. Kennedy International Airport",
+      "symbol": "JFK"
+   }
+}
