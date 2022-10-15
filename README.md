@@ -18,11 +18,11 @@ unsolved (if they are incomplete after three days).
 | JavaScript   | 47      | 36      | 83      |
 | Go           | 3       | 44      | 47      |
 | C            | 9       | 37      | 46      |
+| Swift        | 0       | 34      | 34      |
 | C++          | 11      | 22      | 33      |
-| Swift        | 0       | 32      | 32      |
 | Rust         | 6       | 11      | 17      |
 | SQL          | 0       | 10      | 10      |
 | Scala        | 0       | 10      | 10      |
 | Bash         | 0       | 2       | 2       |
 | Jsonnet      | 0       | 1       | 1       |
-| **Total**    | **394** | **561** | **955** |
+| **Total**    | **394** | **563** | **957** |
