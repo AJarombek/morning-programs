@@ -1,0 +1,40 @@
+/*
+ * Gradle configuration for building the Java application.
+ * @author Andrew Jarombek
+ * @since 10/23/2022
+ */
+
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.github.ajarombek'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": "com.jarombek.Main"
+    }
+
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+application {
+    mainClassName = 'com.jarombek.Main'
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.0'
+}
+
+test {
+    useJUnitPlatform()
+}

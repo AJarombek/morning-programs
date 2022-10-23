@@ -8,3 +8,8 @@
 **/scala/project/project/
 **/scala/target/
 .build
+**/java/build/
+**/java/gradle/
+**/java/gradlew
+**/java/gradlew.bat
+**/java/.gradle
