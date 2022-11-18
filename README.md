@@ -10,19 +10,19 @@ unsolved (if they are incomplete after three days).
 
 ### Program Completion Count
 
-| Language     | 2021    | 2022    | Total   |
-|--------------|---------|---------|---------|
-| Python       | 176     | 119     | 295     |
-| Java         | 148     | 68      | 216     |
-| TypeScript   | 0       | 181     | 181     |
-| JavaScript   | 47      | 36      | 83      |
-| Go           | 3       | 56      | 59      |
-| C            | 9       | 37      | 46      |
-| Swift        | 0       | 46      | 46      |
-| C++          | 11      | 28      | 39      |
-| Rust         | 6       | 11      | 17      |
-| SQL          | 0       | 10      | 10      |
-| Scala        | 0       | 10      | 10      |
-| Bash         | 0       | 2       | 2       |
-| Jsonnet      | 0       | 1       | 1       |
-| **Total**    | **394** | **605** | **999** |
+| Language     | 2021    | 2022    | Total    |
+|--------------|---------|---------|----------|
+| Python       | 176     | 119     | 295      |
+| Java         | 148     | 68      | 216      |
+| TypeScript   | 0       | 181     | 181      |
+| JavaScript   | 47      | 36      | 83       |
+| Go           | 3       | 56      | 59       |
+| C            | 9       | 37      | 46       |
+| Swift        | 0       | 46      | 46       |
+| C++          | 11      | 29      | 40       |
+| Rust         | 6       | 11      | 17       |
+| SQL          | 0       | 10      | 10       |
+| Scala        | 0       | 10      | 10       |
+| Bash         | 0       | 2       | 2        |
+| Jsonnet      | 0       | 1       | 1        |
+| **Total**    | **394** | **606** | **1000** |
