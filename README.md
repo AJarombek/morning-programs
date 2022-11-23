@@ -19,10 +19,10 @@ unsolved (if they are incomplete after three days).
 | Go           | 3       | 56      | 59       |
 | C            | 9       | 37      | 46       |
 | Swift        | 0       | 46      | 46       |
-| C++          | 11      | 33      | 44       |
+| C++          | 11      | 34      | 45       |
 | Rust         | 6       | 11      | 17       |
 | SQL          | 0       | 10      | 10       |
 | Scala        | 0       | 10      | 10       |
 | Bash         | 0       | 2       | 2        |
 | Jsonnet      | 0       | 1       | 1        |
-| **Total**    | **394** | **610** | **1004** |
+| **Total**    | **394** | **611** | **1005** |
