@@ -25,4 +25,5 @@ unsolved (if they are incomplete after three days).
 | Scala        | 0       | 10      | 10       |
 | Bash         | 0       | 2       | 2        |
 | Jsonnet      | 0       | 1       | 1        |
+| PHP          | 0       | 1       | 1        |
 | **Total**    | **394** | **621** | **1015** |
