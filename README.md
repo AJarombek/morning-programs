@@ -23,7 +23,7 @@ unsolved (if they are incomplete after three days).
 | Rust         | 6       | 11      | 17       |
 | SQL          | 0       | 10      | 10       |
 | Scala        | 0       | 10      | 10       |
-| PHP          | 0       | 5       | 5        |
+| PHP          | 0       | 6       | 6        |
 | Bash         | 0       | 2       | 2        |
 | Jsonnet      | 0       | 1       | 1        |
-| **Total**    | **394** | **626** | **1019** |
+| **Total**    | **394** | **627** | **1020** |
