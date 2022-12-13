@@ -21,9 +21,9 @@ unsolved (if they are incomplete after three days).
 | Swift        | 0       | 46      | 46       |
 | C++          | 11      | 34      | 45       |
 | Rust         | 6       | 11      | 17       |
+| PHP          | 0       | 11      | 11       |
 | SQL          | 0       | 10      | 10       |
 | Scala        | 0       | 10      | 10       |
-| PHP          | 0       | 10      | 10       |
 | Bash         | 0       | 2       | 2        |
 | Jsonnet      | 0       | 1       | 1        |
-| **Total**    | **394** | **631** | **1024** |
+| **Total**    | **394** | **632** | **1025** |
