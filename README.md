@@ -13,7 +13,7 @@ unsolved (if they are incomplete after three days).
 | Language   | 2021    | 2022    | 2023    | Total    |
 |------------|---------|---------|---------|----------|
 | Python     | 176     | 129     | 21      | 326      |
-| TypeScript | 0       | 181     | 44      | 225      |
+| TypeScript | 0       | 181     | 46      | 227      |
 | Java       | 148     | 68      | 1       | 217      |
 | JavaScript | 47      | 66      | 16      | 129      |
 | Go         | 3       | 56      | 13      | 72       |
@@ -26,4 +26,4 @@ unsolved (if they are incomplete after three days).
 | Scala      | 0       | 10      | 0       | 10       |
 | Bash       | 0       | 2       | 0       | 2        |
 | Jsonnet    | 0       | 1       | 0       | 1        |
-| **Total**  | **394** | **662** | **133** | **1188** |
+| **Total**  | **394** | **662** | **135** | **1190** |
