@@ -13,3 +13,4 @@
 **/java/gradlew
 **/java/gradlew.bat
 **/java/.gradle
+**/node_modules

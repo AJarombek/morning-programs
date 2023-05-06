@@ -1,0 +1,11 @@
+{
+  "name": "leaf-similar",
+  "version": "1.0.0",
+  "description": "Leaf Similar Trees Unit Tests",
+  "scripts": {
+    "test": "node leafSimilarTrees.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
