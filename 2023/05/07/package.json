@@ -1,0 +1,11 @@
+{
+  "name": "middle-node",
+  "version": "1.0.0",
+  "description": "Middle Node Unit Tests",
+  "scripts": {
+    "test": "node middleNode.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
