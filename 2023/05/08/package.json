@@ -1,0 +1,11 @@
+{
+  "name": "projection-area",
+  "version": "1.0.0",
+  "description": "Projection Area Unit Tests",
+  "scripts": {
+    "test": "node projectionArea.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
