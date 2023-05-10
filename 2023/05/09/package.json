@@ -1,0 +1,11 @@
+{
+  "name": "uncommon-words",
+  "version": "1.0.0",
+  "description": "Uncommon Words Unit Tests",
+  "scripts": {
+    "test": "node uncommonFromSentences.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
