@@ -1,0 +1,11 @@
+{
+  "name": "surface-area",
+  "version": "1.0.0",
+  "description": "Surface Area Unit Tests",
+  "scripts": {
+    "test": "node surfaceArea.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
