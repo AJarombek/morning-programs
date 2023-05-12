@@ -1,0 +1,11 @@
+{
+  "name": "increasing-bst",
+  "version": "1.0.0",
+  "description": "Increasing BST Unit Tests",
+  "scripts": {
+    "test": "node increasingBST.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
