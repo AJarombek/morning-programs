@@ -1,0 +1,11 @@
+{
+  "name": "sort-parity",
+  "version": "1.0.0",
+  "description": "Sort Array By Parity Unit Tests",
+  "scripts": {
+    "test": "node sortArrayByParity.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
