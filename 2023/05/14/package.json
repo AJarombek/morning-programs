@@ -1,0 +1,11 @@
+{
+  "name": "has-group-size",
+  "version": "1.0.0",
+  "description": "Has Group Size Unit Tests",
+  "scripts": {
+    "test": "node hasGroupSize.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
