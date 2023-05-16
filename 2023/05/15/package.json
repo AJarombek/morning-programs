@@ -1,0 +1,11 @@
+{
+  "name": "reverse-only-letters",
+  "version": "1.0.0",
+  "description": "Reverse Only Letters Unit Tests",
+  "scripts": {
+    "test": "node reverseOnlyLetters.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
