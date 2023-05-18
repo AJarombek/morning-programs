@@ -1,0 +1,11 @@
+{
+  "name": "long-pressed-name",
+  "version": "1.0.0",
+  "description": "Long Pressed Name Unit Tests",
+  "scripts": {
+    "test": "node longPressedName.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
