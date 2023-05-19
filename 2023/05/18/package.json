@@ -1,0 +1,11 @@
+{
+  "name": "unique-emails",
+  "version": "1.0.0",
+  "description": "Unique Emails Unit Tests",
+  "scripts": {
+    "test": "node uniqueEmails.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
