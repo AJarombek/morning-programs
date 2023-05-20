@@ -1,0 +1,11 @@
+{
+  "name": "recent-counter",
+  "version": "1.0.0",
+  "description": "Recent Counter Unit Tests",
+  "scripts": {
+    "test": "node recentCounter.js"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0"
+  }
+}
