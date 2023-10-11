@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=46.4.0", "wheel>=0.36.2"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+name = "mp_oct_11_2023"
+version = "0.1.0"
+description = "A Python package for a morning program on October 11th, 2023."
+authors = ["Andrew Jarombek <andrew@jarombek.com>"]
+python = "^3.11"
+
+[tool.poetry.dependencies]
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
